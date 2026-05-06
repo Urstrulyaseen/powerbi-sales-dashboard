@@ -28,7 +28,9 @@ This project is an interactive sales dashboard built using Power BI. It provides
 
 * `sales-dashboard-powerbi.pbix`
 * `dashboard-preview.png`
-* `sales_100.csv`
+* `Details.csv`
+* `Orders.csv`
+
 
 ## 📷 Dashboard Preview
 
